@@ -11,5 +11,7 @@ public class Main {
         manager.comToWork();
 
         System.out.println();
+        // add code for funciton1
+        System.out.println("function1");
     }
 }
